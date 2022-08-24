@@ -41,3 +41,4 @@
    * Open Connect
 3. [Free code camp](https://www.freecodecamp.org/news/how-to-system-design-dda63ed27e26/)
 4. [Wide Column database](https://stackoverflow.com/questions/62010368/what-exactly-is-a-wide-column-store)
+5. [System Design Primer](https://github.com/donnemartin/system-design-primer)

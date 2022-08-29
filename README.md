@@ -37,11 +37,10 @@
 ## Resources
 1. [Grooking system design](https://www.educative.io/courses/grokking-the-system-design-interview)
 2. [Gaurab System design youtube](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&ab_channel=GauravSen)
-   > Keywords
-   * Open Connect
 3. [Free code camp](https://www.freecodecamp.org/news/how-to-system-design-dda63ed27e26/)
 4. [Wide Column database](https://stackoverflow.com/questions/62010368/what-exactly-is-a-wide-column-store)
 5. [System Design Primer](https://github.com/donnemartin/system-design-primer)
 6. [System Design for Dummies](https://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones?fbclid=IwAR0su33TzH857XYTERW9PfWR1aw4lBaeydtlsb0-eWny6DpKKxUq4wiPBt0)
 7. [System Design Medium](https://systemdesign.medium.com/)
+8. [System Design Interview - Youtube Channel](https://www.youtube.com/c/SystemDesignInterview/videos)
 

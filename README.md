@@ -26,7 +26,7 @@
 11. Purgin or DB Cleanup
 12. Security and permission
 
-# System design category wised:
+## System design category wise:
 * Designing a storage/sharing service: Dropbox, Youtube, Instagram, etc.
 * Designing a service that deals with geographical data: Uber, Yelp, Lyft, etc.
 * Designing a social media service: Facebook, Twitter, Instagram, Snapchat, etc.

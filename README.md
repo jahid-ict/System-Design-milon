@@ -26,7 +26,7 @@
 11. Purgin or DB Cleanup
 12. Security and permission
 
-# System design category wised:
+## System design category wise:
 * Designing a storage/sharing service: Dropbox, Youtube, Instagram, etc.
 * Designing a service that deals with geographical data: Uber, Yelp, Lyft, etc.
 * Designing a social media service: Facebook, Twitter, Instagram, Snapchat, etc.
@@ -35,9 +35,15 @@
 * Designing location sharing service: Uber, Google map, Zomato
 
 ## Resources
-1. [Grooking system design](https://www.educative.io/courses/grokking-the-system-design-interview)
-2. [Gaurab System design youtube](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&ab_channel=GauravSen)
-   > Keywords
-   * Open Connect
-3. [Free code camp](https://www.freecodecamp.org/news/how-to-system-design-dda63ed27e26/)
-4. [Wide Column database](https://stackoverflow.com/questions/62010368/what-exactly-is-a-wide-column-store)
+1. [Gaurab System design youtube](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&ab_channel=GauravSen)
+2. [Free code camp](https://www.freecodecamp.org/news/how-to-system-design-dda63ed27e26/)
+3. [Wide Column database](https://stackoverflow.com/questions/62010368/what-exactly-is-a-wide-column-store)
+4. [System Design Primer](https://github.com/donnemartin/system-design-primer)
+5. [System Design Medium](https://systemdesign.medium.com/)
+6. [System Design Interview - Youtube Channel](https://www.youtube.com/c/SystemDesignInterview/videos)
+7. [System Design Github](https://github.com/karanpratapsingh/system-design)
+8. [Crack the System Design Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
+9. [System Design Interview Questions – Concepts You Should Know](https://www.freecodecamp.org/news/systems-design-for-interviews/)
+10. [Leetcode System Design](https://leetcode.com/discuss/interview-question/system-design?currentPage=1&orderBy=hot&query=)
+
+

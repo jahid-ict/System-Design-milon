@@ -41,9 +41,10 @@
 4. [System Design Primer](https://github.com/donnemartin/system-design-primer)
 5. [System Design Medium](https://systemdesign.medium.com/)
 6. [System Design Interview - Youtube Channel](https://www.youtube.com/c/SystemDesignInterview/videos)
-7. [System Design Github](https://github.com/karanpratapsingh/system-design)
-8. [Crack the System Design Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
-9. [System Design Interview Questions – Concepts You Should Know](https://www.freecodecamp.org/news/systems-design-for-interviews/)
-10. [Leetcode System Design](https://leetcode.com/discuss/interview-question/system-design?currentPage=1&orderBy=hot&query=)
+7. [System Design  Course Github](https://github.com/karanpratapsingh/system-design)
+8. [System Design Interview Github](https://github.com/checkcheckzz/system-design-interview)
+9. [Crack the System Design Interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
+10. [System Design Interview Questions – Concepts You Should Know](https://www.freecodecamp.org/news/systems-design-for-interviews/)
+11. [Leetcode System Design](https://leetcode.com/discuss/interview-question/system-design?currentPage=1&orderBy=hot&query=)
 
 
